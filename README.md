@@ -1,5 +1,10 @@
+[![MasterHead](https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif)]
 <h1 align="center">Hi 👋, I'm Ajay Pradeep</h1>
 <h3 align="center">Network security Engineer with a hands-on approach and technological mindset for Implementing and troubleshooting IT network.</h3>
+<img align="right" alt="Coding" width="400" src="https://www.ccds.ws/wp-content/uploads/2022/06/101492-blue-security.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaeya05&label=Profile%20views&color=0e75b6&style=flat" alt="jaeya05" /> </p>
+
+<p align="left"> <a href="https://twitter.com/jaeya05" target="blank"><img src="https://img.shields.io/twitter/follow/jaeya05?logo=twitter&style=for-the-badge" alt="jaeya05" /></a> </p>
 
 - 🔭 I’m currently working on [NetworkNotes](https://github.com/jaeya05/NetworkNotes)
 
@@ -13,3 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaeya05&show_icons=true&locale=en&layout=compact" alt="jaeya05" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeya05&show_icons=true&locale=en" alt="jaeya05" /></p>
