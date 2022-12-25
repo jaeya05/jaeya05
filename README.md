@@ -1,7 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif)]
-<h1 align="center">Hi 👋, I'm Ajay Pradeep</h1>
+<h1 align="left">Hi 👋, I'm Ajay Pradeep</h1>
 <h3 align="center">Network security Engineer with a hands-on approach and technological mindset for Implementing and troubleshooting IT network.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.ccds.ws/wp-content/uploads/2022/06/101492-blue-security.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaeya05&label=Profile%20views&color=0e75b6&style=flat" alt="jaeya05" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jaeya05" target="blank"><img src="https://img.shields.io/twitter/follow/jaeya05?logo=twitter&style=for-the-badge" alt="jaeya05" /></a> </p>
