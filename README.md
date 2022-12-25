@@ -1,6 +1,6 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Ajay Pradeep B R 
 
-I'm a Network Security Professional with hands on experience in designing, implementing, and troubleshooting network security systems for enterprises. proficient in data security and integrity, firewall management [Cisco, Palo Alto, Checkpoint, and Fortinet appliances], and skilled in network penetration testing (N-map, Wireshark). has managed various network sizes and maintained access control using a radius.
+I'm a Network Security Professional with hands on experience in designing, implementing, and troubleshooting network security systems for enterprises. proficient in data security and integrity, IDS/IPS, firewall management [Cisco, Palo Alto, Checkpoint, and Fortinet appliances], and skilled in network penetration testing (N-map, Wireshark). has managed various network sizes and maintained access control using a radius.
 
 :mailbox:Reach me out!
 
