@@ -6,7 +6,7 @@ I'm a Network Security Professional with hands on experience in designing, imple
 
 [![Twitter Badge](https://img.shields.io/badge/-@jaeya05-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jaeya05)](https://twitter.com/jaeya05)  [![Linkedin Badge](https://img.shields.io/badge/-jaeya05-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaeya05/) [![Mail Badge](https://img.shields.io/badge/-jaeya05-c0392b?style=flat&labelColor=c0392b&logo=Minutemailer&logoColor=white)](mailto:jaeya05@zohomail.in)
 
-- 🔭 I’m currently working on [NetworkNotes](https://github.com/jaeya05/NetworkSecurityGuide)
+- 🔭 I’m currently working on [Network Security Guide](https://github.com/jaeya05/NetworkSecurityGuide)
 
 
 ## Area of Expertise
