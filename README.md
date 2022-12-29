@@ -1,4 +1,4 @@
-![Header](./images/github-header-image.png)
+![Header](./images/header-image.png)
 
 I'm a Network Security Professional with hands on experience in designing, implementing, and troubleshooting network security systems for enterprises. proficient in data security and integrity, IDS/IPS, firewall management [Cisco, Palo Alto, Checkpoint, and Fortinet appliances], and skilled in network penetration testing (N-map, Wireshark). has managed various network sizes and maintained access control using a radius.
 
