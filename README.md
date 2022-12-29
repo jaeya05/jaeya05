@@ -8,32 +8,25 @@ I'm a Network Security Professional with hands on experience in designing, imple
 
 - 🔭 I’m currently working on [NetworkNotes](https://github.com/jaeya05/NetworkNotes)
 
-<details>
-<summary>
-More About me 
-</summary>
 
-<br>
+## Area of Expertise
 
-### Area of Expertise
+* Experience with TCP/IP and common TCP/UDP protocols at the packet level.
+* Experience in Deploying and maintaining Enterprise grade Next Generation Firewall, SSL Forward Proxy, content Filtering, Data Loss Preventions (DLP), Identity access management.
+* Experience in Configuring and Troubleshooting Firewall Security Policies.
+* Experience in Configuring and troubleshooting Next generation Firewalls such as Paloalto, checkpoint, Fortinet & Cisco FTD.
+* Experience in analysing packet captures to understand the root cause and provide solutions to the complex network issues.
+* Experience in Cisco Identity service Engine (ISE).
+* Experience in Design and Implement IPsec VPN infrastructure.
+* Experience in Configuring and Troubleshooting Routers and Switches.
+* Experience in Configuring and troubleshooting the BGP, OSPF, EIGRP routing protocols.
+* Proficient in Configuring and troubleshooting the STP Flavours, EtherChannel, Gateway Load balancing protocols like HSRP, GLBP, VRRP.
+* Experience in configuring and Troubleshooting the Aruba SDWAN Solution for enterprises.
+* Experience in Network Penetration Testing.
+* Experience in Implementing Proxy services from Firewall and Opensource Nginx Reverse Proxy
+* Skilled in writing Network and Security automation scripts using Python programming language.
+* Skilled in The Linux Operating systems [Centos, Ubuntu, Kali]
 
-- Experience with TCP/IP and common TCP/UDP protocols at the packet level.
-- Experience in Deploying and maintaining Enterprise grade Next Generation Firewall, SSL Forward Proxy, content Filtering, Data Loss Preventions (DLP), Identity access management.
-- Experience in Configuring and Troubleshooting Firewall Security Policies.
-- Experience in Configuring and troubleshooting Next generation Firewalls such as Paloalto, checkpoint, Fortinet & Cisco FTD.
-- Experience in analysing packet captures to understand the root cause and provide solutions to the complex network issues.
-- Experience in Cisco Identity service Engine (ISE).
-- Experience in Design and Implement IPsec VPN infrastructure.
-- Experience in Configuring and Troubleshooting Routers and Switches.
-- Experience in Configuring and troubleshooting the BGP, OSPF, EIGRP routing protocols.
-- Proficient in Configuring and troubleshooting the STP Flavours, EtherChannel, Gateway Load balancing protocols like HSRP, GLBP, VRRP.
-- Experience in configuring and Troubleshooting the Aruba SDWAN Solution for enterprises.
-- Experience in Network Penetration Testing.
-- Experience in Implementing Proxy services from Firewall and Opensource Nginx Reverse Proxy
-- Skilled in writing Network and Security automation scripts using Python programming language.
-- Skilled in The Linux Operating systems [Centos, Ubuntu, Kali]
-
-</details>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
